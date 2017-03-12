@@ -9,12 +9,10 @@ The project is organized in a 3 step process, notably:
 You will find the corresponding folders for each step.
 
 
-
 ###Team Members
 * Rohan Singh
 * Christopher Sam
 * Aviraj Lal
-
 
 
 ###Coaches/Sponsors
@@ -24,16 +22,13 @@ You will find the corresponding folders for each step.
 * Christian Jaeckel
 
 
-
 ##Products in this project
 * [Cisco Application Policy Infrastructure Controller (APIC)](http://www.cisco.com/c/en/us/products/cloud-systems-management/application-policy-infrastructure-controller-apic/index.html)
-
 
 
 ###API Documentation
 * [Cisco DevNet: ACI - APIs - ACI Toolkit](https://developer.cisco.com/site/aci/docs/apis/aci-toolkit/)
 * [Cisco APIC Python SDK Documentation](https://developer.cisco.com/site/aci/docs/apis/cobra-python/)
-
 
 
 ###Sample Application - coming soon
